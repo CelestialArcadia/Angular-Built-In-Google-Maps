@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
 import { BehaviorSubject, Observable } from "rxjs";
-import { Marker } from "src/app/models/marker.mode";
+import { Marker } from "src/app/models/marker.model";
 
 @Injectable({
   providedIn: 'root',
